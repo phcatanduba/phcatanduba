@@ -4,7 +4,7 @@
  <img align="right" alt="GIF" src="https://github.com/phcatanduba/phcatanduba/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a FullStack Web Developer
+## I'm a Full-Stack Web Developer
 - 🔭 I’m currently working on my first mobile app project.
 - 🌱 I’m currently learning ReactJS/Native and NodeJS
 - 👯 I’m looking to new opportunities
@@ -13,7 +13,8 @@
 
 
 ### Talk with me:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:phcatanduba@gmail.com)
 
 <br />
 
@@ -49,4 +50,3 @@
 
 </details>
 
-[linkedin]: https://linkedin.com/
