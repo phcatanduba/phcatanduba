@@ -8,8 +8,6 @@
 - 🔭 I’m currently working on my first mobile app project.
 - 🌱 I’m currently learning ReactJS/Native and NodeJS
 - 👯 I’m looking to new opportunities
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Naruto <3
 
 
 ### Talk with me:
