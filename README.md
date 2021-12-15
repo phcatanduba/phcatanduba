@@ -5,8 +5,8 @@
 
 
 ## I'm a Full-Stack Web Developer
-- 🔭 I’m currently working improve as a Full-Stack Web Developer
-- 🌱 I’m currently learning ReactJS/Native and NodeJS
+- 🔭 I’m currently working with Mobile Development (Swift)
+- 🌱 I’m currently learning ReactJS, NodeJS and Swift
 - 👯 I’m looking to new opportunities
 
 
