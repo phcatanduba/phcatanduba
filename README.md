@@ -1,13 +1,13 @@
 
-### Hello World, I'm Pedro Henrique  👋
+### Hello World, I'm Pedro Henrique or PH 👋
 
  <img align="right" alt="GIF" src="https://github.com/phcatanduba/phcatanduba/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
-## I'm a Full-Stack Web Developer
+## I'm a Software Engineer
 - 🔭 I’m currently working with Mobile Development (Swift)
-- 🌱 I’m currently learning ReactJS, NodeJS and Swift
-- 👯 I’m looking to new opportunities
+- 🌐 Skilled in Node.js, JavaScript, and ReactJS for web development.
+- 🔗 Skilled in blockchain and Web3 technologies.
 
 
 ### Talk with me:
