@@ -7,10 +7,10 @@
 ## I'm a Software Engineer
 - 🔭 I’m currently working with Mobile Development (Swift)
 - 🌐 Skilled in Node.js, JavaScript, and ReactJS for web development.
-- 🔗 Skilled in blockchain and Web3 technologies.
+- 🔗 Skilled in Blockchain and Web3 technologies.
 
 
-### Talk with me:
+### Feel free to reach out:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:phcatanduba@gmail.com)
 
